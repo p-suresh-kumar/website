@@ -59,14 +59,7 @@ h1.myself {
   padding-bottom: 5%;
   color: black;
 }
-h3.patents {
-  text-align: center;
-  font-family: 'Bree Serif', seri;
-  font-size: 4rem;
-  padding-top: 20%;
-  padding-bottom: 5%;
-  color: white;
-}
+
 
 #aboutme-not {
   text-align: center;
@@ -143,8 +136,8 @@ h2 {
 }
 
 .projects{
-  line-height: 5;
-  padding-top: 5rem;
+  line-height: 2;
+  padding-top: 4rem;
   text-align: justify;
 }
 
@@ -160,6 +153,7 @@ h2 {
   color: white;
 }
 .patents{
+  padding-top: 4rem;
   line-height: 1.5rem;
   text-align: justify;
   color: white;
