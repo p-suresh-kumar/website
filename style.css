@@ -61,7 +61,7 @@ h1.myself {
 }
 h3 {
   text-align: center;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Bree Serif', seri;
   font-size: 4rem;
   padding-top: 5%;
   padding-bottom: 5%;
@@ -143,6 +143,7 @@ h2 {
 }
 
 .projects{
+  padding-top: 5rem;
   text-align: justify;
 }
 
