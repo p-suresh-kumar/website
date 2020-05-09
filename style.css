@@ -59,11 +59,11 @@ h1.myself {
   padding-bottom: 5%;
   color: black;
 }
-h3 {
+h3.patents {
   text-align: center;
   font-family: 'Bree Serif', seri;
   font-size: 4rem;
-  padding-top: 5%;
+  padding-top: 20%;
   padding-bottom: 5%;
   color: white;
 }
@@ -143,6 +143,7 @@ h2 {
 }
 
 .projects{
+  line-height: 5;
   padding-top: 5rem;
   text-align: justify;
 }
